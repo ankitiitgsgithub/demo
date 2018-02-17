@@ -3,3 +3,4 @@ This is the first line of the file (from master branch, from develop branch).
 
 ##Line from local2 master.
 Line from remote.
+Another line from remote.
